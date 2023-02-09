@@ -1,3 +1,3 @@
-var nom = 'John';
+userNam = 'John';
 
-console.log('Welcom',nom);
+console.log('Welcom',userNam);

@@ -1,6 +1,6 @@
 var day = "lundi";
 if (day == "samedi" || day == "dimanche" ){
-console.log("weekends")
+console.log("weekends");
 } else {
-console.log("weekday")
+console.log("weekday");
 }
