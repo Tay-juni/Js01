@@ -1,13 +1,8 @@
-let n = 0;
+let n = 1;
 
-while (n <= 19) {
-      
-     n+= 1;
-     if (n%2 ==0) {
-       continue;
-       
-     }
-  
- console.log(n);
+while (n < 20) {
+     console.log(n); 
+  n++;
+  n++;
 
 }
